@@ -1,34 +1,34 @@
-Exercícios
-Parte I - Criação de arquivos e diretórios
+# Exercícios
+## Parte I - Criação de arquivos e diretórios
 Dica : Para criação de arquivos vazios você pode utilizar o comando touch nome-do-arquivo.extensao.
 
-Utilizando o terminal, aplique o comando de criação de diretórios que você aprendeu: crie um diretório chamado unix_tests e navegue até ele.
+1. Utilizando o terminal, aplique o comando de criação de diretórios que você aprendeu: crie um diretório chamado unix_tests e navegue até ele.
 
-Crie um arquivo de texto com o nome trybe.txt.
+2. Crie um arquivo de texto com o nome trybe.txt.
 
-Crie uma cópia do arquivo trybe.txt com nome trybe_backup.txt.
+3. Crie uma cópia do arquivo trybe.txt com nome trybe_backup.txt.
 
-Renomeie o arquivo trybe.txt.
+4. Renomeie o arquivo trybe.txt.
 
-Dentro de unix_tests , crie um novo diretório chamado backup.
+5. Dentro de unix_tests , crie um novo diretório chamado backup.
 
-Mova o arquivo trybe_backup.txt para o diretório backup.
+6. Mova o arquivo trybe_backup.txt para o diretório backup.
 
-Dentro de unix_tests , crie um novo diretório chamado backup2.
+7. Dentro de unix_tests , crie um novo diretório chamado backup2.
 
-Mova o arquivo trybe_backup.txt da pasta backup para a pasta backup2.
+8. Mova o arquivo trybe_backup.txt da pasta backup para a pasta backup2.
 
-Apague a pasta backup.
+9. Apague a pasta backup.
 
-Renomeie a pasta backup2 para backup.
+10. Renomeie a pasta backup2 para backup.
 
-Veja qual o path completo do diretório atual e liste todos os arquivos dentro dele.
+11. Veja qual o path completo do diretório atual e liste todos os arquivos dentro dele.
 
-Apague o diretório backup.
+12. Apague o diretório backup.
 
-Limpe o terminal.
+13. Limpe o terminal.
 
-Para os exercícios, 14 e 15, crie, de forma manual na parte gráfica do seu sistema operacional, um arquivo de texto com o conteúdo abaixo, chamado skills.txt:
+## Para os exercícios, 14 e 15, crie, de forma manual na parte gráfica do seu sistema operacional, um arquivo de texto com o conteúdo abaixo, chamado skills.txt:
 
 Internet
 Unix
@@ -38,39 +38,39 @@ CSS
 JavaScript
 React
 SQL
-Mostre na tela as 5 primeiras skills do arquivo skills.txt.
+14. Mostre na tela as 5 primeiras skills do arquivo skills.txt.
 
-Mostre na tela as 4 últimas skills do arquivo skills.txt.
+15. Mostre na tela as 4 últimas skills do arquivo skills.txt.
 
-Apague todos os arquivos que terminem em .txt.
+16. Apague todos os arquivos que terminem em .txt.
 
-Parte II - Manipulação & Busca
-Na pasta unix_tests, baixe um arquivo com os nomes de todos os países do mundo utilizando o comando curl:
+# Parte II - Manipulação & Busca
+1. Na pasta unix_tests, baixe um arquivo com os nomes de todos os países do mundo utilizando o comando curl:
 curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"
-Mostre todo o conteúdo do arquivo countries.txt na tela.
+2. Mostre todo o conteúdo do arquivo countries.txt na tela.
 
-Mostre o conteúdo de countries.txt, página por página, até encontra a Zambia.
+3. Mostre o conteúdo de countries.txt, página por página, até encontra a Zambia.
 
-Mostre novamente o conteúdo de countries.txt página por página, mas agora utilize um comando para buscar por Zambia.
+4. Mostre novamente o conteúdo de countries.txt página por página, mas agora utilize um comando para buscar por Zambia.
 
-Busque por Brazil no countries.txt.
+5. Busque por Brazil no countries.txt.
 
-Busque novamente por brazil , mas agora utilizando o lower case.
+6. Busque novamente por brazil , mas agora utilizando o lower case.
 
-Para os próximos exercícios, crie um novo arquivo chamado phrases.txt e adicione algumas frases a sua escolha. Não precisa criar o arquivo pelo terminal.
+## Para os próximos exercícios, crie um novo arquivo chamado phrases.txt e adicione algumas frases a sua escolha. Não precisa criar o arquivo pelo terminal.
 
-Busque pelas frases que não contenham a palavra fox.
+7. Busque pelas frases que não contenham a palavra fox.
 
-Conte o número de palavras do arquivo phrases.txt.
+8. Conte o número de palavras do arquivo phrases.txt.
 
-Conte o número de linhas do arquivo phrases.txt.
+9. Conte o número de linhas do arquivo phrases.txt.
 
-Crie os arquivos empty.tbt e empty.pdf.
+10. Crie os arquivos empty.tbt e empty.pdf.
 
-Liste todos os arquivos do diretório unix_tests.
+11. Liste todos os arquivos do diretório unix_tests.
 
-Liste todos os arquivos que terminem com txt.
+12. Liste todos os arquivos que terminem com txt.
 
-Liste todos os arquivos que terminem com tbt ou txt.
+13. Liste todos os arquivos que terminem com tbt ou txt.
 
-Acesse o manual do comando ls.
+14. Acesse o manual do comando ls.
