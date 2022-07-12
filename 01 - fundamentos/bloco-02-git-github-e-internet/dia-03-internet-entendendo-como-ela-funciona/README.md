@@ -1,5 +1,4 @@
-# ola a todos!
-### fiz esse README.md para explicar um pouco sobre o que vi no dia 03 do curso da TRYBE!
+# Fiz esse README.md para explicar um pouco sobre o que vi no dia 03 do curso da TRYBE!!
 
 Hoje aprendi mais sobre a internet e sobre TCP/IP, HTTPS, HTTP e suas respectivas respostas, aprendi também sobre como funciona a INTERNET.
 
