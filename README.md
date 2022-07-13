@@ -170,7 +170,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 [ ]35-2: Arquitetura de redes
 [ ]35-3: Redes de computadores, ferramentas e segurança
 [ ]35-4: Projeto - Explorando os protocolos
-###Bloco 36: Python
+### Bloco 36: Python
 [ ]35-1: Aprendendo Python
 [ ]35-2: Testes e Exceções
 [ ]35-3: Entrada e Saída de dados
