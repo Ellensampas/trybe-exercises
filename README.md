@@ -1,5 +1,5 @@
 # Trybe
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por [*Ellen.Silva.Sampaio.Barros(https://www.linkedin.com/in/ellen-sampaio-4464a7241/)*] enquanto estudava na [Trybe(https://www.betrybe.com/)] :Rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por [Ellen(https://www.linkedin.com/in/ellen-sampaio-4464a7241/)] enquanto estudava na [Trybe(https://www.betrybe.com/)]
 
 "A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."
 
