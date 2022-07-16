@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML</title>
+    <style>
+             h1{
+            font-size: 40px;
+            color: orange;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        body{
+            font-size: 16px;
+        }
+        .list-style{
+            background-color: red;
+            font-family: monospace;
+            line-height: 2;
+            text-decoration: underline;
+
+        }
+        .list-style2{
+            background-color: black;
+            color: rebeccapurple;
+            font-family: monospace;
+            line-height: 2;
+            text-decoration: underline;
+        }
+        .list-style3{
+            background-color: pink;
+            font-family: monospace;
+            line-height: 2;
+            text-decoration: underline;
+        }
+        p{
+            font-weight: 600;
+            font-size: 18px;
+        }
+        .topo-da-lista{ 
+            background-color: aqua;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+    <h1>Exercícios 3.2</h1>
+    <p class="topo-da-lista">Qual é a sua cor favorita?</p>
+    <ul>
+        <li class="list-style">Vermelho</li>
+        <li class="list-style2" >Preto</li>
+        <li class="list-style3" >Rosa</li>
+    </ul>
+</body>
+</html>
