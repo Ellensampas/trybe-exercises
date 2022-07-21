@@ -1,11 +1,13 @@
-const a = 130;
-const b = 20;
-const c = 600;
+const number = 0;
 
-if(a > b && a > c) {
-  console.log('"a" é o maior de tres numeros');
-}  else if (b > a && b > c) {
-  console.log('"b" é maior de tres numeros');
-} else if(c > a && c > b) {
-  console.log('"c" é o maior de tres numeros')
+let resultado;
+
+if(number > 0) {
+  resultado = 'positive'
+}  else if (number < 0) {
+  resultado = 'negative'
+} else {
+  resultado = 'zero'
 }
+
+console.log(resultado);
