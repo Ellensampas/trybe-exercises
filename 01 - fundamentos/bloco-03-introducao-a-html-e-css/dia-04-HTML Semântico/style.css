@@ -1,0 +1,12 @@
+body{
+margin: 0%;
+font-family:'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+}
+li{
+    display: inline;
+    list-style-type: none;
+}
